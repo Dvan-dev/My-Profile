@@ -1,0 +1,174 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Archivo', sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 7.2rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Aladin', cursive;
+  /*line-height: 2;*/
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Antic Didone', serif;
+  margin-top: 0;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin-bottom: 50px;
+}
+
+.wd {
+  margin: 0;
+  text-align: center;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Antic Didone', serif;
+}
+
+.top-container {
+  background-color: powderblue;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 50px;
+}
+
+.middel-container {
+  margin: 50px 0;
+}
+
+.bottom-container {
+  background-color: powderblue;
+  padding: 25px;
+  margin-top: 20px;
+}
+
+a {
+  color: white;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.I {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 10%;
+  right: 30%;
+}
+
+.python {
+  color: #11999E;
+}
+
+.Java {
+  color: #11999E;
+}
+
+.HTML {
+  color: #11999E;
+}
+
+.CSS {
+  color: #11999E;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.py-logo {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.jav-logo {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.html-logo {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.css-logo {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.BUTTON_HVK {
+  background: #3D94F6;
+  background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: Tahoma;
+  font-size: 35px;
+  font-weight: 100;
+  padding: 20px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #0059A0;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_HVK:hover {
+  border: solid #DD380D 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+hr {
+  border-style: dashed;
+  width: 5%;
+  color: grey;
+}
